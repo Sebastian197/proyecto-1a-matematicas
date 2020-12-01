@@ -1,6 +1,6 @@
 {
   "name": "math-chaning-js",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Proyecto de matematicas sencillo para aprender NodeJS y subirlo a NPM",
   "main": "index.js",
   "scripts": {
